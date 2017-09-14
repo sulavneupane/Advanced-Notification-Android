@@ -1,2 +1,2 @@
 # Advanced-Notification-Android
-This project has demo codes to show some of the advanced type of notification that we can create in Android.
+This project has demo codes to show some of the advanced type of notification that we can create in Android like music player that runs in notification bar, starting and stopping services that runs in background, starting specific activity by clicking on notification with the ability to maintain backstack of the activities so that it takes to main activity on pressing back and many more.
